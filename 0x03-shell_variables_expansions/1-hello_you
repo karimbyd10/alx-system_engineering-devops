@@ -1,0 +1,5 @@
+#!/bin/bash
+# This script prints "hello <current_user>"
+
+echo "hello $USER"
+
